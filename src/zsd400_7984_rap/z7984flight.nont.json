@@ -1,0 +1,11 @@
+{
+  "formatVersion": "1",
+  "header": {
+    "description": "SAP Object Node Type Z7984FLIGHT",
+    "originalLanguage": "en",
+    "abapLanguageVersion": "cloudDevelopment"
+  },
+  "name": "Z7984FLIGHT",
+  "sapObjectType": "Z7984FLIGHT",
+  "rootNode": true
+}
